@@ -1,4 +1,10 @@
-# Hey 👋, I'm  Abdelrahman Essam Mohamed
+ <h6 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+👋+I'm+Abdelrahman+Essam+Mohamed;Data+Analyst+📊;Welcome+to+my+profile!&center=true&size=30">
+  </a>
+</h6>
+
+<br/>
 <a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
 <br/>
